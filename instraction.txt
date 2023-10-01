@@ -1,0 +1,7 @@
+****************For Admin Login********************
+Username:- naina113@gmail.com
+Password:- 12345
+
+**************** For User Login********************
+username:- navya@gmail.com
+password :- navya
